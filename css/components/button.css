@@ -1,0 +1,11 @@
+.btn-blue {
+	background-color: darkblue;
+	padding: 15px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: "Open+Sans:wght@400;700", serif;
+  	border: 3px solid #3CC;
+  	margin: 10px 10px;
+  	text-align: center;
+}
